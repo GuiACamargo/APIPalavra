@@ -1,0 +1,4 @@
+CREATE TABLE tb_palavra (
+id BIGINT AUTO_INCREMENT PRIMARY KEY,
+palavra VARCHAR(255) NOT NULL,
+caracteres INT NOT NULL );
